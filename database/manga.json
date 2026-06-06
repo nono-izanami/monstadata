@@ -1,43 +1,54 @@
 {
-  "manga_id": "a-dragonslayers-peerless-regression",
+  "manga_id": "manga_dspr_001",
   "title": "A Dragonslayer's Peerless Regression",
-  "alternative_title": "Yongsaljaui Mudugongbwan",
+  "alternative_title": "Return of the Peerless Dragonslayer / 용살자의 클래스가 다른 회귀",
   "status": "Ongoing",
-  "author": "Swimming Woo",
-  "artist": "Kim Jun-Hyuk",
+  "author": "Hectopascal",
+  "artist": "Hectopascal",
   "genres": [
     "Action",
-    "Adventure",
     "Fantasy",
-    "Shounen",
-    "Regression"
+    "Regression",
+    "Magic",
+    "Revenge"
   ],
   "type": "Manhwa",
-  "release_year": 2023,
-  "rating": "4.8",
-  "synopsis": "Setelah kematian umat manusia akibat amukan naga hitam, Siegfried, pembantai naga terkuat, diberi kesempatan kedua. Dia kembali ke masa lalu saat dirinya masih menjadi seorang prajurit muda yang belum memiliki apa-apa. Dengan ingatan masa depan dan tekad untuk membalas dendam, Siegfried memulai pelatihannya kembali untuk melampaui batas kemampuannya demi mencegah kehancuran dunia yang sama.",
-  "cover_url": "https://raw.githubusercontent.com/username/monstacomic-storage/main/assets/covers/a-dragonslayers-peerless-regression.jpg",
+  "release_year": 2024,
+  "rating": 8.5,
+  "synopsis": "Zeke Draker adalah keturunan langsung pertama dari keluarga Dragon Slayer yang gagal melakukan Awakening. Memiliki bakat sebagai Healer alih-alih Swordsman, ia diasingkan oleh keluarganya. Berjuang mati-matian untuk menjadi lebih kuat, Zeke menemui akhir yang tragis. Pada saat kematiannya, kata-kata misterius muncul di depan matanya: [Jiwa Elder Dragon terukir pada tekad dia yang bertahan]. Ketika dia sadar, dia mendapati dirinya kembali ke keluarga Dragon Slayer yang telah menelantarkannya, tepat 20 tahun di masa lalu.",
+  "cover_url": "https://raw.githubusercontent.com/MonstaComic/assets/main/covers/dspr_cover.jpg",
   "chapters": [
     {
-      "chapter_number": "01",
-      "chapter_title": "Awal dari Penyesalan",
+      "chapter_number": 1,
+      "chapter_title": "The Healer's Death",
       "images": [
-        "https://raw.githubusercontent.com/username/monstacomic-storage/main/manga/a-dragonslayers-peerless-regression/ch-01/001.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-storage/main/manga/a-dragonslayers-peerless-regression/ch-01/002.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-storage/main/manga/a-dragonslayers-peerless-regression/ch-01/003.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-storage/main/manga/a-dragonslayers-peerless-regression/ch-01/004.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-storage/main/manga/a-dragonslayers-peerless-regression/ch-01/005.jpg"
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr/ch001/001.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr/ch001/002.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr/ch001/003.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr/ch001/004.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr/ch001/005.jpg"
       ]
     },
     {
-      "chapter_number": "02",
-      "chapter_title": "Kembali ke Masa Lalu",
+      "chapter_number": 2,
+      "chapter_title": "The Promise of the Elder Dragon",
       "images": [
-        "https://raw.githubusercontent.com/username/monstacomic-storage/main/manga/a-dragonslayers-peerless-regression/ch-02/001.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-storage/main/manga/a-dragonslayers-peerless-regression/ch-02/002.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-storage/main/manga/a-dragonslayers-peerless-regression/ch-02/003.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-storage/main/manga/a-dragonslayers-peerless-regression/ch-02/004.jpg",
-        "https://raw.githubusercontent.com/username/monstacomic-storage/main/manga/a-dragonslayers-peerless-regression/ch-02/005.jpg"
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr/ch002/001.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr/ch002/002.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr/ch002/003.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr/ch002/004.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr/ch002/005.jpg"
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "chapter_title": "Awakening in the Past",
+      "images": [
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr/ch003/001.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr/ch003/002.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr/ch003/003.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr/ch003/004.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr/ch003/005.jpg"
       ]
     }
   ]
