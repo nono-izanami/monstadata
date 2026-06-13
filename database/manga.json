@@ -1,55 +1,75 @@
-{
-  "manga_id": "manga_dspr_001",
-  "title": "A Dragonslayer's Peerless Regression",
-  "alternative_title": "Return of the Peerless Dragonslayer / 용살자의 클래스가 다른 회귀",
-  "status": "Ongoing",
-  "author": "Hectopascal",
-  "artist": "Hectopascal",
-  "genres": [
-    "Action",
-    "Fantasy",
-    "Regression",
-    "Magic",
-    "Revenge"
-  ],
-  "type": "Manhwa",
-  "release_year": 2024,
-  "rating": 8.5,
-  "synopsis": "Zeke Draker adalah keturunan langsung pertama dari keluarga Dragon Slayer yang gagal melakukan Awakening. Memiliki bakat sebagai Healer alih-alih Swordsman, ia diasingkan oleh keluarganya. Berjuang mati-matian untuk menjadi lebih kuat, Zeke menemui akhir yang tragis. Pada saat kematiannya, kata-kata misterius muncul di depan matanya: [Jiwa Elder Dragon terukir pada tekad dia yang bertahan]. Ketika dia sadar, dia mendapati dirinya kembali ke keluarga Dragon Slayer yang telah menelantarkannya, tepat 20 tahun di masa lalu.",
-  "cover_url": "https://raw.githubusercontent.com/MonstaComic/assets/main/covers/dspr_cover.jpg",
-  "chapters": [
-    {
-      "chapter_number": 1,
-      "chapter_title": "The Healer's Death",
-      "images": [
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr/ch001/001.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr/ch001/002.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr/ch001/003.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr/ch001/004.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr/ch001/005.jpg"
-      ]
-    },
-    {
-      "chapter_number": 2,
-      "chapter_title": "The Promise of the Elder Dragon",
-      "images": [
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr/ch002/001.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr/ch002/002.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr/ch002/003.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr/ch002/004.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr/ch002/005.jpg"
-      ]
-    },
-    {
-      "chapter_number": 3,
-      "chapter_title": "Awakening in the Past",
-      "images": [
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr/ch003/001.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr/ch003/002.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr/ch003/003.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr/ch003/004.jpg",
-        "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr/ch003/005.jpg"
-      ]
-    }
-  ]
-}
+[
+  {
+    "manga_id": "manga_dspr_001",
+    "title": "A Dragonslayer's Peerless Regression",
+    "alternative_title": "Return of the Peerless Dragonslayer / 용살자의 클래스가 다른 회귀",
+    "status": "Ongoing",
+    "author": "Hectopascal",
+    "artist": "Hectopascal",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Regression",
+      "Magic",
+      "Revenge"
+    ],
+    "type": "Manhwa",
+    "release_year": 2024,
+    "rating": 8.5,
+    "synopsis": "Zeke Draker adalah keturunan langsung pertama dari keluarga Dragon Slayer yang gagal melakukan Awakening. Memiliki bakat sebagai Healer alih-alih Swordsman, ia diasingkan oleh keluarganya. Berjuang mati-matian untuk menjadi lebih kuat, Zeke menemui akhir yang tragis. Pada saat kematiannya, kata-kata misterius muncul di depan matanya: [Jiwa Elder Dragon terukir pada tekad dia yang bertahan]. Ketika dia sadar, dia mendapati dirinya kembali ke keluarga Dragon Slayer yang telah menelantarkannya, tepat 20 tahun di masa lalu.",
+    "cover_url": "https://raw.githubusercontent.com/MonstaComic/assets/main/covers/dspr_cover.jpg",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "The Healer's Death",
+        "images": [
+          "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr/ch001/001.jpg",
+          "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr/ch001/002.jpg",
+          "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr/ch001/003.jpg",
+          "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr/ch001/004.jpg",
+          "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr/ch001/005.jpg"
+        ]
+      },
+      {
+        "chapter_number": 2,
+        "chapter_title": "The Promise of the Elder Dragon",
+        "images": [
+          "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr/ch002/001.jpg",
+          "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr/ch002/002.jpg",
+          "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr/ch002/003.jpg",
+          "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr/ch002/004.jpg",
+          "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr/ch002/005.jpg"
+        ]
+      },
+      {
+        "chapter_number": 3,
+        "chapter_title": "Awakening in the Past",
+        "images": [
+          "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr/ch003/001.jpg",
+          "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr/ch003/002.jpg",
+          "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr/ch003/003.jpg",
+          "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr/ch003/004.jpg",
+          "https://raw.githubusercontent.com/MonstaComic/assets/main/manga/dspr/ch003/005.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "manga_auto_1781323629849_887",
+    "title": "Villain To Kill",
+    "cover": "https://via.placeholder.com/180x250/222222/39ff14?text=Villain%20To%20Kill",
+    "cbzUrl": "https://raw.githubusercontent.com/nono-izanami/monstadata/main/Adventure/Villain%20To%20Kill.cbz"
+  },
+  {
+    "id": "manga_auto_1781323630442_545",
+    "title": "The Hero Starts Over at the Academy",
+    "cover": "https://via.placeholder.com/180x250/222222/39ff14?text=The%20Hero%20Starts",
+    "cbzUrl": "https://raw.githubusercontent.com/nono-izanami/monstadata/main/Romance/The%20Hero%20Starts%20Over%20at%20the%20Academy.cbz"
+  },
+  {
+    "id": "manga_auto_1781323631045_934",
+    "title": "The Nebula_s Civilization",
+    "cover": "https://via.placeholder.com/180x250/222222/39ff14?text=The%20Nebula_s%20Ci",
+    "cbzUrl": "https://raw.githubusercontent.com/nono-izanami/monstadata/main/Sci-Fi/The%20Nebula_s%20Civilization.cbz"
+  }
+]
